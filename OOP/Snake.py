@@ -13,3 +13,4 @@ class Snake(Reptile):
         print("Gotcha!!!!!")
 
 sally = Snake()
+Steve = Snake()
